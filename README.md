@@ -1,5 +1,7 @@
 # Hackintosh, Soyo B660M Classic, Intel(R) Core(TM) i5-12400F, AMD Radeon RX 570 8Gb
 
+![WiFi BCM - OCLP 2 3 2](https://github.com/user-attachments/assets/142d59a6-4a0e-458d-acc2-aad86a6ef9af)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonona (14.7.5)
